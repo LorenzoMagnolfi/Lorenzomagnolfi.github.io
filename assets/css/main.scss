@@ -40,4 +40,10 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-;
+
+   /* Custom profile picture styling */
+.author__avatar img {
+  border-radius: 0% !important; /* Square shape */
+}
+   ;
+
