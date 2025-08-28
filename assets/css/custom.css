@@ -1,70 +1,190 @@
-/* Remove darker bar at top */
-.masthead {
-  background: transparent !important;
-  background-color: transparent !important;
+/* Custom CSS for Academic Website - Sophisticated Green Theme */
+/* This targets existing academicpages Jekyll structure */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+
+/* CSS Variables for Easy Color Management */
+:root {
+  --primary-color: #059669;
+  --primary-dark: #047857;
+  --primary-light: #10b981;
+  --accent-color: #047857;
+  --text-primary: #374151;
+  --text-secondary: #6b7280;
+  --background-main: #f9fafb;
+  --background-white: #ffffff;
+  --border-light: #e5e7eb;
+  --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.1);
+  --shadow-medium: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --border-radius: 8px;
+  --transition: all 0.3s ease;
 }
 
-.greedy-nav {
-  background: transparent !important;
+/* Base Typography */
+body {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: var(--text-primary);
+  line-height: 1.6;
+  background-color: var(--background-main);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+h1, .page__title {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+h2 {
+  color: var(--primary-dark);
+  border-bottom: 2px solid var(--primary-light);
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  color: var(--accent-color);
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+  transition: var(--transition);
+}
+
+a:hover {
+  color: var(--primary-dark);
+}
+
+/* Main Content Area */
+.page__content {
+  background-color: var(--background-white);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-subtle);
+}
+
+/* Clean styling for publication lists - no boxes */
+.page__content ol li, 
+.page__content ul li {
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+/* Style the paper links as subtle, colored links */
+.page__content a[href*="Paper"], 
+.page__content a[href*="paper"] {
+  color: var(--primary-color);
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.page__content a[href*="Paper"]:hover, 
+.page__content a[href*="paper"]:hover {
+  color: var(--primary-dark);
+  border-bottom: 1px solid var(--primary-dark);
+}
+
+.page__content a[href*="SSRN"],
+.page__content a[href*="arXiv"],
+.page__content a[href*="NBER"],
+.page__content a[href*="Preprint"],
+.page__content a[href*="preprint"],
+.page__content a[href*="Video"],
+.page__content a[href*="GitHub"] {
+  color: var(--text-secondary);
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.page__content a[href*="SSRN"]:hover,
+.page__content a[href*="arXiv"]:hover,
+.page__content a[href*="NBER"]:hover,
+.page__content a[href*="Preprint"]:hover,
+.page__content a[href*="preprint"]:hover,
+.page__content a[href*="Video"]:hover,
+.page__content a[href*="GitHub"]:hover {
+  color: var(--primary-color);
+  border-bottom: 1px solid var(--primary-color);
+}
+
+/* Style italicized journal names */
+.page__content em {
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* Make strong text use accent colors */
+.page__content strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* Style award emojis and text */
+.page__content li:contains("🏆") {
+  position: relative;
+}
+
+/* Navigation and Header */
+.masthead {
+  background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+}
+
+.site-title {
+  color: white !important;
+  font-weight: 700;
 }
 
 .greedy-nav a {
-  color: var(--text-primary) !important;
+  color: rgba(255, 255, 255, 0.9);
   transition: var(--transition);
 }
 
 .greedy-nav a:hover {
-  color: var(--primary-color) !important;
+  color: white;
 }
 
-/* Consistent font throughout entire site */
-body, p, li, span, div, .sidebar, .sidebar p, .sidebar li {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif !important;
+/* Sidebar */
+.sidebar {
+  background-color: var(--background-white);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-subtle);
 }
 
-/* Sidebar elements - consistent font */
-.author__bio,
-.author__bio p,
-.author__location,
-.author__urls,
-.author__urls li,
-.author__urls a,
-.sidebar .author__content,
-.sidebar h3,
-.sidebar p,
-.sidebar ul,
-.sidebar li {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif !important;
-  color: var(--text-primary);
+.author__avatar img {
+  border-radius: 50%;
+  box-shadow: var(--shadow-medium);
 }
 
-/* Author name in sidebar */
 .author__name {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
-  color: var(--primary-color) !important;
-  font-weight: 700;
+  color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
 }
 
-/* Navigation links in sidebar */
-.author__urls a {
-  color: var(--primary-color) !important;
-  transition: var(--transition);
+/* Add some spacing between sections */
+.page__content h2 + ol,
+.page__content h2 + ul {
+  margin-top: 1.5rem;
 }
 
-.author__urls a:hover {
-  color: var(--primary-dark) !important;
-}
-
-/* Ensure all headings use Inter consistently */
-h1, h2, h3, h4, h5, h6, 
-.page__title,
-.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
-}
-
-/* Site title/logo area */
-.site-title, .site-subtitle {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
-  color: var(--primary-color) !important;
-  font-weight: 700;
+/* Responsive Design */
+@media (max-width: 768px) {
+  .page__content {
+    padding: 1.5rem;
+  }
+  
+  .page__content ol li, 
+  .page__content ul li {
+    padding: 1rem;
+  }
 }
