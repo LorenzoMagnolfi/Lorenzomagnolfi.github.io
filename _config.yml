@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "LMprofile.jpg"
-  name             : "Lorenzo Magnolfi"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio: "Industrial Organization Economist"
+  bio: ""
   location         : "Madison, WI"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
