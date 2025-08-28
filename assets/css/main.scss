@@ -44,7 +44,8 @@
 
    /* Custom profile picture styling */
 .author__avatar img {
-  border-radius: 0% !important; /* Square shape */
+  max-width: 110px;
+  border-radius: 10px; /* Subtle rounded corners */ !important; /* Square shape */
 }
 
 /* Hide top navigation bar */
