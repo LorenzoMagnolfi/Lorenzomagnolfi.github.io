@@ -61,14 +61,6 @@ a {
 a:hover {
   color: var(--primary-dark);
 }
-
-/* Main Content Area */
-.page__content {
-  background-color: var(--background-white);
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow-subtle);
-}
-
 /* Clean styling for publication lists - no boxes */
 .page__content ol li, 
 .page__content ul li {
@@ -84,12 +76,6 @@ a:hover {
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: var(--transition);
-}
-
-.page__content a[href*="Paper"]:hover, 
-.page__content a[href*="paper"]:hover {
-  color: var(--primary-dark);
-  border-bottom: 1px solid var(--primary-dark);
 }
 
 .page__content a[href*="SSRN"],
@@ -134,11 +120,6 @@ a:hover {
   position: relative;
 }
 
-/* Navigation and Header */
-.masthead {
-  background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
-}
-
 .site-title {
   color: white !important;
   font-weight: 700;
@@ -153,13 +134,6 @@ a:hover {
   color: white;
 }
 
-/* Sidebar */
-.sidebar {
-  background-color: var(--background-white);
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow-subtle);
-}
-
 .author__avatar img {
   border-radius: 50%;
   box-shadow: var(--shadow-medium);
@@ -169,12 +143,6 @@ a:hover {
   color: var(--text-primary);
   font-family: 'Inter', sans-serif;
   font-weight: 600;
-}
-
-/* Add some spacing between sections */
-.page__content h2 + ol,
-.page__content h2 + ul {
-  margin-top: 1.5rem;
 }
 
 /* Responsive Design */
