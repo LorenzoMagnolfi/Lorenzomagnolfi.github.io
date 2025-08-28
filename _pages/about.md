@@ -13,8 +13,13 @@ My field is empirical industrial organization; see my [research statement](files
 
 Here is my [cv](files/cv_magnolfi_Aug25).
 
-## Current Position
-Assistant professor of economics, University of Wisconsin-Madison
+## Publications
+
+## Working Papers
+
+## Software
 
 ## Contact
 Email: magnolfi@wisc.edu
+
+Office: Room 6426, 1180 Observatory Drive, Madison, WI 53706-1393
