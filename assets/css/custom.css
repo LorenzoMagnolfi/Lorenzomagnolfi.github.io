@@ -62,13 +62,6 @@ a:hover {
   color: var(--primary-dark);
 }
 
-/* Main Content Area */
-.page__content {
-  background-color: var(--background-white);
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow-subtle);
-}
-
 /* Clean styling for publication lists - no boxes */
 .page__content ol li, 
 .page__content ul li {
@@ -92,31 +85,6 @@ a:hover {
   border-bottom: 1px solid var(--primary-dark);
 }
 
-.page__content a[href*="SSRN"],
-.page__content a[href*="arXiv"],
-.page__content a[href*="NBER"],
-.page__content a[href*="Preprint"],
-.page__content a[href*="preprint"],
-.page__content a[href*="Video"],
-.page__content a[href*="GitHub"] {
-  color: var(--text-secondary);
-  font-weight: 500;
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: var(--transition);
-}
-
-.page__content a[href*="SSRN"]:hover,
-.page__content a[href*="arXiv"]:hover,
-.page__content a[href*="NBER"]:hover,
-.page__content a[href*="Preprint"]:hover,
-.page__content a[href*="preprint"]:hover,
-.page__content a[href*="Video"]:hover,
-.page__content a[href*="GitHub"]:hover {
-  color: var(--primary-color);
-  border-bottom: 1px solid var(--primary-color);
-}
-
 /* Style italicized journal names */
 .page__content em {
   color: var(--text-secondary);
@@ -132,11 +100,6 @@ a:hover {
 /* Style award emojis and text */
 .page__content li:contains("🏆") {
   position: relative;
-}
-
-/* Navigation and Header */
-.masthead {
-  background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
 }
 
 .site-title {
@@ -169,22 +132,4 @@ a:hover {
   color: var(--text-primary);
   font-family: 'Inter', sans-serif;
   font-weight: 600;
-}
-
-/* Add some spacing between sections */
-.page__content h2 + ol,
-.page__content h2 + ul {
-  margin-top: 1.5rem;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-  .page__content {
-    padding: 1.5rem;
-  }
-  
-  .page__content ol li, 
-  .page__content ul li {
-    padding: 1rem;
-  }
 }
