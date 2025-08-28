@@ -111,3 +111,9 @@ a:hover {
 .page__content a {
   font-size: inherit; /* Links inherit parent size */
 }
+
+/* Hide footer completely */
+.page__footer {
+  display: none !important;
+}
+
