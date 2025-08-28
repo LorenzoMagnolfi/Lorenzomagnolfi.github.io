@@ -77,27 +77,27 @@ a:hover {
 
 /* Smaller fonts for about page content */
 .page__content {
-  font-size: 0.9rem; /* Reduce base font size */
+  font-size: 0.8rem; /* Reduce base font size */
 }
 
 .page__content h1, .page__title {
-  font-size: 2rem; /* Smaller main title */
+  font-size: 1.5rem; /* Smaller main title */
 }
 
 .page__content h2 {
-  font-size: 1.5rem; /* Smaller section headers */
+  font-size: 1.25rem; /* Smaller section headers */
 }
 
 .page__content h3 {
-  font-size: 1.25rem; /* Smaller sub-headers */
+  font-size: 1.05rem; /* Smaller sub-headers */
 }
 
 .page__content p {
-  font-size: 0.9rem; /* Smaller paragraph text */
+  font-size: 0.8rem; /* Smaller paragraph text */
 }
 
 .page__content li {
-  font-size: 0.85rem; /* Smaller list items (publications) */
+  font-size: 0.75rem; /* Smaller list items (publications) */
 }
 
 .page__content strong {
