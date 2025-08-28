@@ -13,13 +13,13 @@ My field is empirical industrial organization; see my [research statement](files
 
 Here is my [cv](files\cv_2025.pdf).
 
-# Publications
+### Publications
 
-# Working Papers
+### Working Papers
 
-# Software
+### Software
 
-# Contact
+### Contact
 **Email**: [magnolfi@wisc.edu](mailto:magnolfi@wisc.edu)
 
 **Office**: Room 6426, 1180 Observatory Drive, Madison, WI 53706-1393
