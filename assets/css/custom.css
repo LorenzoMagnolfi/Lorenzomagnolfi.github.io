@@ -17,36 +17,21 @@
   --border-light: #e5e7eb;
   --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.1);
   --shadow-medium: 0 4px 6px rgba(0, 0, 0, 0.1);
-  --border-radius: 8px;
-  --transition: all 0.3s ease;
 }
 
 /* Base Typography */
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   color: var(--text-primary);
-  line-height: 1.6;
-  background-color: var(--background-main);
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 600;
-  color: var(--text-primary);
-}
-
-
-h2 {
-  color: var(--primary-dark);
-  border-bottom: 2px solid var(--primary-light);
-  padding-bottom: 0.5rem;
-  margin-top: 2rem;
-}
-
-h3 {
   color: var(--accent-color);
 }
+
 
 /* Links */
 a {
@@ -65,32 +50,10 @@ a:hover {
   line-height: 1.6;
 }
 
-/* Style the paper links as subtle, colored links */
-.page__content a[href*="Paper"], 
-.page__content a[href*="paper"] {
-  color: var(--primary-color);
-  font-weight: 600;
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: var(--transition);
-}
-
-.page__content a[href*="Paper"]:hover, 
-.page__content a[href*="paper"]:hover {
-  color: var(--primary-dark);
-  border-bottom: 1px solid var(--primary-dark);
-}
-
 /* Style italicized journal names */
 .page__content em {
   color: var(--text-secondary);
   font-weight: 500;
-}
-
-/* Make strong text use accent colors */
-.page__content strong {
-  color: var(--text-primary);
-  font-weight: 600;
 }
 
 /* Style award emojis and text */
@@ -98,25 +61,15 @@ a:hover {
   position: relative;
 }
 
-.greedy-nav a {
-  color: rgba(255, 255, 255, 0.9);
-  transition: var(--transition);
-}
-
-.greedy-nav a:hover {
-  color: white;
-}
-
 /* Sidebar */
 .sidebar {
   background-color: var(--background-white);
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow-subtle);
+    font-family: 'Inter', sans-serif;
+
 }
 
 .author__avatar img {
   border-radius: 50%;
-  box-shadow: var(--shadow-medium);
 }
 
 .author__name {
@@ -124,7 +77,6 @@ a:hover {
   font-family: 'Inter', sans-serif;
   font-weight: 600;
 }
-
 
 /* Smaller fonts for about page content */
 .page__content {
