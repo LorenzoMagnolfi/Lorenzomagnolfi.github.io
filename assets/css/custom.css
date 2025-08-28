@@ -26,7 +26,7 @@ body {
 }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, .page__title {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 600;
   color: var(--accent-color);
@@ -36,7 +36,6 @@ h1, h2, h3, h4, h5, h6 {
 /* Links */
 a {
   color: var(--primary-color);
-  transition: var(--transition);
 }
 
 a:hover {
@@ -65,7 +64,6 @@ a:hover {
 .sidebar {
   background-color: var(--background-white);
     font-family: 'Inter', sans-serif;
-
 }
 
 .author__avatar img {
