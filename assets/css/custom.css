@@ -12,7 +12,7 @@
   --accent-color: #047857;
   --text-primary: #374151;
   --text-secondary: #6b7280;
-  --background-main: #f9fafb;
+  --background-main: #ffffff;
   --background-white: #ffffff;
   --border-light: #e5e7eb;
   --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.1);
@@ -36,10 +36,6 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text-primary);
 }
 
-h1, .page__title {
-  color: var(--primary-color);
-  font-weight: 700;
-}
 
 h2 {
   color: var(--primary-dark);
@@ -100,11 +96,6 @@ a:hover {
 /* Style award emojis and text */
 .page__content li:contains("🏆") {
   position: relative;
-}
-
-.site-title {
-  color: white !important;
-  font-weight: 700;
 }
 
 .greedy-nav a {
