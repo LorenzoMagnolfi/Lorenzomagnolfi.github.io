@@ -45,8 +45,7 @@ Here is my [cv](files\cv_2025.pdf).
 ## Working Papers
 
 1. [**Estimation of Games under No Regret: Structural Econometrics for AI**](files/papers/Estimation_of_Games_under_No_Regret_11_29.pdf) (with [N. Lomys](https://niccololomys.com/))  
-   *R&R at Journal of Political Economy* [[SSRN]](https://ssrn.com/abstract=4269273)<br>
-NET Institute Working Paper [#24-05](https://ideas.repec.org/p/net/wpaper/2405.html)<br>
+   *R&R at Journal of Political Economy* [[SSRN]](https://ssrn.com/abstract=4269273) | NET Institute Working Paper [#24-05](https://ideas.repec.org/p/net/wpaper/2405.html)<br>
 [Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742516) in Proceedings of the 26th ACM Conference on Economics and Computation [*EC'25*]  
 
 2. [**Conduct and Scale Economies: Evaluating Tariffs in the US Automobile Market**](/files/papers/ConductAndScaleEconomies_Manuscript+(1)) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
