@@ -16,7 +16,7 @@ Here is my [cv](files\cv_2025.pdf).
 ## Published Papers
 
 1. [**Regulatory Competition and the Market for Corporate Law**](https://www.aeaweb.org/articles?id=10.1257%2Fmic.20180056) (with [O. Eldar](https://sites.google.com/view/ofereldar))  
-   *American Economic Journal: Microeconomics, (May 2020)* [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685969)
+   *American Economic Journal: Microeconomics, (May 2020)* [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685969)<br>
    📰 **Featured on Harvard Law School Forum on Corporate Governance** 
 
 3. [**A Comparison of Testing and Estimation of Firm Conduct**](https://www.sciencedirect.com/science/article/pii/S0165176522000246) (with [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
@@ -26,7 +26,7 @@ Here is my [cv](files\cv_2025.pdf).
    *Economics Letters, October 2022*   [[Preprint]](files/papers/BertrandCournot-76.pdf)
 
 5. [**Estimation of Discrete Games with Weak Assumptions on Information**](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdac058/6670639) (with C. Roncoroni)  
-   *Review of Economic Studies, July 2023* **[Featured Article]**  [[Preprint]](files/papers/EstimationDiscrGamesWeakInfo_MagnolfiRoncoroni_Mar2022.pdf)
+   *Review of Economic Studies, July 2023* **[Featured Article]**  [[Preprint]](files/papers/EstimationDiscrGamesWeakInfo_MagnolfiRoncoroni_Mar2022.pdf)<br>
    🏆 **Young Economists' Essay Award (EARIE 2016), Young Economist Prize (JEI 2016)**  
 
 6. **The Rise of Urgent Care Centers** (with C. Mommaerts, N. Serna, and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
