@@ -36,7 +36,7 @@ Here is my [cv](files\cv_2025.pdf).
    *Quantitative Economics, July 2024*  [[arXiv]](https://arxiv.org/abs/2301.06720)
 
 7. [**Triplet Embeddings for Demand Estimation**](https://www.aeaweb.org/articles?id=10.1257/mic.20220248) (with [J. McClure](https://www.joncfmcclure.com/) and [A. Sorensen](https://users.ssc.wisc.edu/~sorensen/))  
-   **American Economic Journal: Microeconomics**,* February 2025*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4113399)
+  *American Economic Journal: Microeconomics, February 2025*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4113399)
 [Extended Abstract](https://dl.acm.org/doi/10.1145/3490486.3538282) in Proceedings of the 23rd ACM Conference on Economics and Computation [*EC'22*]. 
 
 9. [**The Competitive Conduct of Consumer Cooperatives**](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12496) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home) and C. Roncoroni)  
