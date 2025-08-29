@@ -13,8 +13,9 @@ title                    : "Lorenzo Magnolfi"
 title_separator          : "-"
 name                     : &name "Lorenzo Magnolfi"
 description              : &description "Assistant professor of economics"
-url: "https://Lorenzomagnolfi.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url: "https://lorenzomagnolfi.com"
+baseurl: ""
+domain: lorenzomagnolfi.com
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
