@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of economics at the University of Wisconsin-Madison. 
+I am an Assistant Professor in the Department of Economics at the University of Wisconsin-Madison.
 
 I do research in *empirical industrial organization* and *econometrics of games*: see my [research statement](files\Research_Statement+(5).pdf) (updated: August, 2025) for a description of my research agenda. 
 
-Here is my [cv](files\cv_2025.pdf).
+Here is my [CV](files\cv_2025.pdf).
 
 ## Published Papers
 
