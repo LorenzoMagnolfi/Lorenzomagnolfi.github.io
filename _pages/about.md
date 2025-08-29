@@ -44,7 +44,7 @@ Here is my [cv](files\cv_2025.pdf).
 
 ## Working Papers
 
-1. [**Estimation of Games under No Regret: Structural Econometrics for AI**](files/papers/Estimation_of_Games_under_No_Regret_11_29.pdf) (with [N. Lomys](https://niccololomys.com/))  
+1. [**Estimation of Games under No Regret: Structural Econometrics for AI**](files/papers/Estimation_of_Games_under_No_Regret_11_29(3).pdf) (with [N. Lomys](https://niccololomys.com/))  
    R&R at **Journal of Political Economy** [[SSRN]](https://ssrn.com/abstract=4269273) | NET Institute Working Paper [#24-05](https://ideas.repec.org/p/net/wpaper/2405.html)<br>
 📄[Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742516) in Proceedings of the 26th ACM Conference on Economics and Computation [**EC'25**]  
 
@@ -57,7 +57,7 @@ NBER Working Paper [#32863](https://www.nber.org/papers/w32863) | This paper sup
 
 5. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  [[arXiv]](https://arxiv.org/abs/2402.19425)
 
-6. [**An Equilibrium Model of Rollover Lotteries**](files/papers/Rollover.pdf) (with [G. Compiani](https://giovannicompiani.com/) and [L. Smith](https://www.lonessmith.com/))  
+6. [**An Equilibrium Model of Rollover Lotteries**](files/papers/Rollover(1).pdf) (with [G. Compiani](https://giovannicompiani.com/) and [L. Smith](https://www.lonessmith.com/))  
 
 7. [**Political Connections and Market Structure**](files/papers/PoliticalConnectionsMarketStructure.pdf) (with C. Roncoroni)  
 🏆 *Public Utility Research Prize (IIOC 2017)*
