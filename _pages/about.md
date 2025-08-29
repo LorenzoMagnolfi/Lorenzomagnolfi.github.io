@@ -37,7 +37,7 @@ Here is my [cv](files\cv_2025.pdf).
 
 7. [**Triplet Embeddings for Demand Estimation**](https://www.aeaweb.org/articles?id=10.1257/mic.20220248) (with [J. McClure](https://www.joncfmcclure.com/) and [A. Sorensen](https://users.ssc.wisc.edu/~sorensen/))  
   **American Economic Journal: Microeconomics**, *February 2025*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4113399)<br>
-📄[Extended Abstract](https://dl.acm.org/doi/10.1145/3490486.3538282) in Proceedings of the 23rd ACM Conference on Economics and Computation [**EC'22**]. 
+📄[Extended Abstract](https://dl.acm.org/doi/10.1145/3490486.3538282) in *Proceedings of the 23rd ACM Conference on Economics and Computation* [**EC'22**]. 
 
 9. [**The Competitive Conduct of Consumer Cooperatives**](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12496) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home) and C. Roncoroni)  
    **RAND Journal of Economics**, *March 2025* [[Preprint]](files/papers/Cooperatives+(16).pdf) [[Video]](https://youtu.be/O4qBSvh3SUU)
@@ -46,7 +46,7 @@ Here is my [cv](files\cv_2025.pdf).
 
 1. [**Estimation of Games under No Regret: Structural Econometrics for AI**](files/papers/Estimation_of_Games_under_No_Regret_11_29(3).pdf) (with [N. Lomys](https://niccololomys.com/))  
    R&R at **Journal of Political Economy** [[SSRN]](https://ssrn.com/abstract=4269273) | NET Institute Working Paper [#24-05](https://ideas.repec.org/p/net/wpaper/2405.html)<br>
-📄[Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742516) in Proceedings of the 26th ACM Conference on Economics and Computation [**EC'25**]  
+📄[Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742516) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
 
 2. [**Conduct and Scale Economies: Evaluating Tariffs in the US Automobile Market**](/files/papers/ConductAndScaleEconomies_Manuscript+(1)) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
 
@@ -66,7 +66,7 @@ NBER Working Paper [#32863](https://www.nber.org/papers/w32863) | This paper sup
 ## Work in Progress   
 
 1. **Market Counterfactuals with Nonparametric Supply: An ML/AI Approach** (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) [[slides]](/files/papers/MarketCFs_slides.pdf)<br>
-📄[Extended abstract](https://dl.acm.org/doi/10.1145/3736252.3742649) in Proceedings of the 26th ACM Conference on Economics and Computation [**EC'25**]  
+📄[Extended abstract](https://dl.acm.org/doi/10.1145/3736252.3742649) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
 
 2. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition** (A. Cozzolino, [C. Gualdani](https://www.cristinagualdani.com/), [I. Gufler](https://sites.google.com/view/ivangufler), and [N. Lomys](https://niccololomys.com/))
 
