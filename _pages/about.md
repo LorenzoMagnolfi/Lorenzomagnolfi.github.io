@@ -29,13 +29,13 @@ Here is my [cv](files\cv_2025.pdf).
    *Review of Economic Studies, July 2023* **[Featured Article]**  [[Preprint]](files/papers/EstimationDiscrGamesWeakInfo_MagnolfiRoncoroni_Mar2022.pdf)<br>
    🏆 **Young Economists' Essay Award (EARIE 2016), Young Economist Prize (JEI 2016)**  
 
-5. [**The Rise of Urgent Care Centers**]((https://www.journals.uchicago.edu/doi/10.1086/727821)) (with [C. Mommaerts](https://sites.google.com/site/corinamommaerts/), [N. Serna](https://www.nserna.com/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
+5. [**The Rise of Urgent Care Centers**](https://www.journals.uchicago.edu/doi/10.1086/727821) (with [C. Mommaerts](https://sites.google.com/site/corinamommaerts/), [N. Serna](https://www.nserna.com/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
    *Journal of Political Economy Microeconomics, May 2024* [[Preprint]](files/papers/RiseUCCs.pdf)
 
-6. [**Testing Firm Conduct**]((https://www.econometricsociety.org/publications/quantitative-economics/2024/07/01/Testing-Firm-Conduct)) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
+6. [**Testing Firm Conduct**](https://www.econometricsociety.org/publications/quantitative-economics/2024/07/01/Testing-Firm-Conduct) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
    *Quantitative Economics, July 2024*  [[arXiv]](https://arxiv.org/abs/2301.06720)
 
-7. [**Triplet Embeddings for Demand Estimation**]((https://www.aeaweb.org/articles?id=10.1257/mic.20220248)) (with [J. McClure](https://www.joncfmcclure.com/) and [A. Sorensen](https://users.ssc.wisc.edu/~sorensen/))  
+7. [**Triplet Embeddings for Demand Estimation**](https://www.aeaweb.org/articles?id=10.1257/mic.20220248) (with [J. McClure](https://www.joncfmcclure.com/) and [A. Sorensen](https://users.ssc.wisc.edu/~sorensen/))  
    *American Economic Journal: Microeconomics, February 2025*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4113399)
 [Extended Abstract](https://dl.acm.org/doi/10.1145/3490486.3538282) in Proceedings of the 23rd ACM Conference on Economics and Computation [*EC'22*]. 
 
