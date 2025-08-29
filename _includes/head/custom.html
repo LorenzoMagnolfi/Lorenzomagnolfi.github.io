@@ -14,51 +14,5 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-<script>
-function addTargetBlankToLinks() {
-  // Target all external links
-  const externalLinks = document.querySelectorAll('a[href^="http"], a[href^="https"]');
-  
-  externalLinks.forEach(function(link) {
-    if (link.hostname !== window.location.hostname && !link.hasAttribute('target')) {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener noreferrer');
-    }
-  });
-  
-  // Target PDF links
-  const pdfLinks = document.querySelectorAll('a[href$=".pdf"], a[href*=".pdf"]');
-  pdfLinks.forEach(function(link) {
-    if (!link.hasAttribute('target')) {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener noreferrer');
-    }
-  });
-  
-  // Target specific academic sites
-  const academicLinks = document.querySelectorAll(
-    'a[href*="aeaweb.org"], ' +
-    'a[href*="sciencedirect.com"], ' +
-    'a[href*="ssrn.com"], ' +
-    'a[href*="arxiv.org"], ' +
-    'a[href*="nber.org"], ' +
-    'a[href*="github.com"]'
-  );
-  
-  academicLinks.forEach(function(link) {
-    if (!link.hasAttribute('target')) {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener noreferrer');
-    }
-  });
-}
-
-// Try multiple events to ensure we catch everything
-document.addEventListener('DOMContentLoaded', addTargetBlankToLinks);
-window.addEventListener('load', addTargetBlankToLinks);
-
-// Also run after a delay
-setTimeout(addTargetBlankToLinks, 2000);
-</script>
 
 <!-- end custom head snippets -->
