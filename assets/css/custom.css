@@ -65,10 +65,6 @@ a:hover {
     font-family: 'Inter', sans-serif;
 }
 
-.author__avatar img {
-  border-radius: 50%;
-}
-
 .author__name {
   color: var(--text-primary);
   font-family: 'Inter', sans-serif;
