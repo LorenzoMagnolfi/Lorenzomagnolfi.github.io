@@ -15,30 +15,30 @@ Here is my [cv](files\cv_2025.pdf).
 
 ## Published Papers
 
-1. [**Regulatory Competition and the Market for Corporate Law**](https://www.aeaweb.org/articles?id=10.1257%2Fmic.20180056) (with O. Eldar)  
-   *American Economic Journal: Microeconomics* (May 2020) 
-   📰 **Featured on Harvard Law School Forum on Corporate Governance** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685969)
+1. [**Regulatory Competition and the Market for Corporate Law**](https://www.aeaweb.org/articles?id=10.1257%2Fmic.20180056) (with [O. Eldar](https://sites.google.com/view/ofereldar))  
+   *American Economic Journal: Microeconomics, (May 2020)* [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685969)
+   📰 **Featured on Harvard Law School Forum on Corporate Governance** 
 
-2. **A Comparison of Testing and Estimation of Firm Conduct** (with [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
-   *Economics Letters*, (March 2022)  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0165176522000246) [[Preprint]](files/papers/AComparisonOfTestingEstimationFirmConduct.pdf)
+3. [**A Comparison of Testing and Estimation of Firm Conduct**](https://www.sciencedirect.com/science/article/pii/S0165176522000246) (with [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
+   *Economics Letters, (March 2022)* [[Preprint]](files/papers/AComparisonOfTestingEstimationFirmConduct.pdf)
 
-3. **Differentiated-Products Cournot Attributes Higher Markups Than Bertrand-Nash** (with D. Quint, [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and S. Waldfogel)  
-   *Economics Letters*, (October 2022)  [[Paper]](https://doi.org/10.1016/j.econlet.2022.110804) [[Preprint]](files/papers/BertrandCournot-76.pdf)
+4. [**Differentiated-Products Cournot Attributes Higher Markups Than Bertrand-Nash**](https://doi.org/10.1016/j.econlet.2022.110804) (with D. Quint, [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and S. Waldfogel)  
+   *Economics Letters, October 2022*   [[Preprint]](files/papers/BertrandCournot-76.pdf)
 
-4. **Estimation of Discrete Games with Weak Assumptions on Information** (with C. Roncoroni)  
-   *Review of Economic Studies*, 90(4), 2006-2041 **[Featured Article]**  
-   🏆 **Young Economists' Essay Award (EARIE 2016), Young Economist Prize (JEI 2016)**  [[Paper]](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdac058/6670639) [[Preprint]](files/papers/EstimationDiscrGamesWeakInfo_MagnolfiRoncoroni_Mar2022.pdf)
+5. [**Estimation of Discrete Games with Weak Assumptions on Information**](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdac058/6670639) (with C. Roncoroni)  
+   *Review of Economic Studies, July 2023* **[Featured Article]**  [[Preprint]](files/papers/EstimationDiscrGamesWeakInfo_MagnolfiRoncoroni_Mar2022.pdf)
+   🏆 **Young Economists' Essay Award (EARIE 2016), Young Economist Prize (JEI 2016)**  
 
-5. **The Rise of Urgent Care Centers** (with C. Mommaerts, N. Serna, and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
+6. **The Rise of Urgent Care Centers** (with C. Mommaerts, N. Serna, and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
    *Journal of Political Economy Microeconomics*, 2(2), 201-243  [[Paper]](https://www.journals.uchicago.edu/doi/10.1086/727821) [[Preprint]](files/papers/RiseUCCs.pdf)
 
-6. **Testing Firm Conduct** (with M. Duarte, M. Sølvsten, and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
+7. **Testing Firm Conduct** (with M. Duarte, M. Sølvsten, and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
    *Quantitative Economics*, 15(3), 571-606  [[Paper]](https://www.econometricsociety.org/publications/quantitative-economics/2024/07/01/Testing-Firm-Conduct) [[arXiv]](https://arxiv.org/abs/2301.06720)
 
-7. **Triplet Embeddings for Demand Estimation** (with J. McClure and A. Sorensen)  
+8. **Triplet Embeddings for Demand Estimation** (with J. McClure and A. Sorensen)  
    *American Economic Journal: Microeconomics*, 17(1), 282-307   [[Paper]](https://www.aeaweb.org/articles?id=10.1257/mic.20220248) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4113399)
 
-8. **The Competitive Conduct of Consumer Cooperatives** (with M. Duarte and C. Roncoroni)  
+9. **The Competitive Conduct of Consumer Cooperatives** (with M. Duarte and C. Roncoroni)  
    *RAND Journal of Economics*, 56(1), 106-125  [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12496) [[Preprint]](files/papers/Cooperatives-16.pdf) [[Video]](https://youtu.be/O4qBSvh3SUU)
 
 ## Working Papers
