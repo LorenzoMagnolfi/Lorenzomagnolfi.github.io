@@ -15,6 +15,27 @@
 <meta name="theme-color" content="#ffffff"/>
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-
+<script>
+// Make all external links open in new tab
+document.addEventListener('DOMContentLoaded', function() {
+  // Target all links that go to external sites
+  const links = document.querySelectorAll('a[href^="http"], a[href^="https"]');
+  
+  links.forEach(function(link) {
+    // Don't affect links that are already on the same domain
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer'); // Security best practice
+    }
+  });
+  
+  // Also target specific internal links like PDFs
+  const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
+  pdfLinks.forEach(function(link) {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+});
+</script>
 
 <!-- end custom head snippets -->
