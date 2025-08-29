@@ -14,41 +14,51 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-
 <script>
-// Make all external links open in new tab - with debugging and delay
-document.addEventListener('DOMContentLoaded', function() {
-  console.log('Script loaded'); // Check if script runs at all
+function addTargetBlankToLinks() {
+  // Target all external links
+  const externalLinks = document.querySelectorAll('a[href^="http"], a[href^="https"]');
   
-  function addTargetBlank() {
-    // Target all links that go to external sites
-    const links = document.querySelectorAll('a[href^="http"], a[href^="https"]');
-    console.log('Found external links:', links.length); // Debug: how many links found
-    
-    links.forEach(function(link) {
-      // Don't affect links that are already on the same domain
-      if (link.hostname !== window.location.hostname) {
-        link.setAttribute('target', '_blank');
-        link.setAttribute('rel', 'noopener noreferrer');
-        console.log('Modified link:', link.href); // Debug: which links modified
-      }
-    });
-    
-    // Also target specific internal links like PDFs
-    const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
-    console.log('Found PDF links:', pdfLinks.length); // Debug: PDF links
-    pdfLinks.forEach(function(link) {
+  externalLinks.forEach(function(link) {
+    if (link.hostname !== window.location.hostname && !link.hasAttribute('target')) {
       link.setAttribute('target', '_blank');
       link.setAttribute('rel', 'noopener noreferrer');
-    });
-  }
+    }
+  });
   
-  // Run immediately
-  addTargetBlank();
+  // Target PDF links
+  const pdfLinks = document.querySelectorAll('a[href$=".pdf"], a[href*=".pdf"]');
+  pdfLinks.forEach(function(link) {
+    if (!link.hasAttribute('target')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
   
-  // Also run after a short delay to catch any dynamically added content
-  setTimeout(addTargetBlank, 1000);
-});
+  // Target specific academic sites
+  const academicLinks = document.querySelectorAll(
+    'a[href*="aeaweb.org"], ' +
+    'a[href*="sciencedirect.com"], ' +
+    'a[href*="ssrn.com"], ' +
+    'a[href*="arxiv.org"], ' +
+    'a[href*="nber.org"], ' +
+    'a[href*="github.com"]'
+  );
+  
+  academicLinks.forEach(function(link) {
+    if (!link.hasAttribute('target')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+}
+
+// Try multiple events to ensure we catch everything
+document.addEventListener('DOMContentLoaded', addTargetBlankToLinks);
+window.addEventListener('load', addTargetBlankToLinks);
+
+// Also run after a delay
+setTimeout(addTargetBlankToLinks, 2000);
 </script>
 
 <!-- end custom head snippets -->
