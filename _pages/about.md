@@ -73,8 +73,7 @@ NBER Working Paper [#32863](https://www.nber.org/papers/w32863) | This paper sup
 
 ## Software
 
-- **pyRVtest: Python Package for Testing Firm Conduct** (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [A. Tarascina](https://anyatarascina.com/))  
-  [[GitHub]](https://github.com/anyatarascina/pyRVtest)
+- **pyRVtest: Python Package for Testing Firm Conduct** (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [A. Tarascina](https://anyatarascina.com/)) [[GitHub]](https://github.com/anyatarascina/pyRVtest)
   
 ## Contact
 **Email**: [magnolfi@wisc.edu](mailto:magnolfi@wisc.edu)
