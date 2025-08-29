@@ -1,6 +1,40 @@
 {% include base_path %}
 
 <!-- start custom head snippets -->
+<!-- Force light mode -->
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
+
+<script>
+// Force light mode regardless of system preference
+(function() {
+  // Remove any existing dark mode classes
+  document.documentElement.classList.remove('dark');
+  document.body.classList.remove('dark');
+  
+  // Set light mode attributes
+  document.documentElement.setAttribute('data-theme', 'light');
+  document.body.setAttribute('data-theme', 'light');
+  
+  // Override CSS custom properties for dark mode
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    const style = document.createElement('style');
+    style.innerHTML = `
+      :root {
+        --primary-color: #059669 !important;
+        --text-primary: #374151 !important;
+        --background-main: #ffffff !important;
+        --background-white: #ffffff !important;
+      }
+      body, html {
+        background-color: #ffffff !important;
+        color: #374151 !important;
+      }
+    `;
+    document.head.appendChild(style);
+  }
+})();
+</script>
 
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
