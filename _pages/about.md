@@ -15,15 +15,15 @@ Here is my [cv](files\cv_2025.pdf).
 
 ## Published Papers
 
-1. **Regulatory Competition and the Market for Corporate Law** (with O. Eldar)  
-   *American Economic Journal: Microeconomics*, 12(2), 60-98  
-   📰 **Featured on Harvard Law School Forum on Corporate Governance**  [[Paper]](https://www.aeaweb.org/articles?id=10.1257%2Fmic.20180056) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685969)
+1. [**Regulatory Competition and the Market for Corporate Law**](https://www.aeaweb.org/articles?id=10.1257%2Fmic.20180056) (with O. Eldar)  
+   *American Economic Journal: Microeconomics* (May 2020) 
+   📰 **Featured on Harvard Law School Forum on Corporate Governance** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685969)
 
 2. **A Comparison of Testing and Estimation of Firm Conduct** (with [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
-   *Economics Letters*, 212, 110316  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0165176522000246) [[Preprint]](files/papers/AComparisonOfTestingEstimationFirmConduct.pdf)
+   *Economics Letters*, (March 2022)  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0165176522000246) [[Preprint]](files/papers/AComparisonOfTestingEstimationFirmConduct.pdf)
 
 3. **Differentiated-Products Cournot Attributes Higher Markups Than Bertrand-Nash** (with D. Quint, [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and S. Waldfogel)  
-   *Economics Letters*, 219, 110804  [[Paper]](https://doi.org/10.1016/j.econlet.2022.110804) [[Preprint]](files/papers/BertrandCournot-76.pdf)
+   *Economics Letters*, (October 2022)  [[Paper]](https://doi.org/10.1016/j.econlet.2022.110804) [[Preprint]](files/papers/BertrandCournot-76.pdf)
 
 4. **Estimation of Discrete Games with Weak Assumptions on Information** (with C. Roncoroni)  
    *Review of Economic Studies*, 90(4), 2006-2041 **[Featured Article]**  
