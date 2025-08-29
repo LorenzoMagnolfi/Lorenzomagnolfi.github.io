@@ -8,19 +8,6 @@
   color-scheme: light !important;
 }
 
-/* Prevent dark mode media queries from affecting the site */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --primary-color: #059669 !important;
-    --primary-dark: #047857 !important;
-    --primary-light: #10b981 !important;
-    --accent-color: #047857 !important;
-    --text-primary: #374151 !important;
-    --text-secondary: #6b7280 !important;
-    --background-main: #ffffff !important;
-    --background-white: #ffffff !important;
-    --border-light: #e5e7eb !important;
-  }
   
 /* CSS Variables for Easy Color Management */
 :root {
