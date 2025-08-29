@@ -9,7 +9,7 @@ redirect_from:
 
 I am an assistant professor of economics at the University of Wisconsin-Madison. 
 
-My field is empirical industrial organization; see my [research statement](files\Research_Statement+(5).pdf) (updated: August, 2025) for a description of my research agenda. 
+I do research in *empirical industrial organization* and *econometrics of games*: see my [research statement](files\Research_Statement+(5).pdf) (updated: August, 2025) for a description of my research agenda. 
 
 Here is my [cv](files\cv_2025.pdf).
 
@@ -53,7 +53,7 @@ Here is my [cv](files\cv_2025.pdf).
 3. [**Learning Firm Conduct: Pass-Through as a Foundation for Instrument Relevance**](files/papers/Falsifying_Models_and_Tax_Instruments+(22)(2).pdf) (with [A. Dearing](https://business.cornell.edu/faculty-research/faculty/aed237/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/))<br>
 NBER Working Paper [#32863](https://www.nber.org/papers/w32863) | This paper supersedes [Falsifying Models of Firm Conduct](magnolfi-quint-sullivan-waldfogel.pdf), with [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/).
 
-4. [**Multi-homing Policies and Collusion**](files/papers/PlatformCollusion+(3).pdf) (with J. Higgins, [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  [[Paper]]
+4. [**Multi-homing Policies and Collusion**](files/papers/PlatformCollusion+(3).pdf) (with J. Higgins, [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
 
 5. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  [[arXiv]](https://arxiv.org/abs/2402.19425)
 
@@ -65,17 +65,15 @@ NBER Working Paper [#32863](https://www.nber.org/papers/w32863) | This paper sup
 
 ## Work in Progress   
 
-1. **Market Counterfactuals with Nonparametric Supply: An ML/AI Approach**, with Harold Chiang, Jack Collison, and Christopher Sullivan - slides. Extended abstract in EC 25: “Enhancing the Merger Simulation Toolkit with ML/AI”
+1. **Market Counterfactuals with Nonparametric Supply: An ML/AI Approach** (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) [[slides]](/files/papers/MarketCFs_slides.pdf)<br>
+[Extended abstract](https://dl.acm.org/doi/10.1145/3736252.3742649) in Proceedings of the 26th ACM Conference on Economics and Computation [*EC'25*]  
 
-2. **Instrument Choice in Merger Simulations**, with Adam Dearing,  Kai Gao, and Christopher Sullivan.
-
-3. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition**, with Antonio Cozzolino, Cristina Gualdani, Ivan Gufler, and Niccolò Lomys.
+2. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition** (A. Cozzolino, [C. Gualdani](https://www.cristinagualdani.com/), [I. Gufler](https://sites.google.com/view/ivangufler), and [N. Lomys](https://niccololomys.com/))
 
 
 ## Software
 
-- **pyRVtest: Python Package for Testing Firm Conduct**  
-  With M. Duarte, M. Sølvsten, [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and A. Tarascina  
+- **pyRVtest: Python Package for Testing Firm Conduct** (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [A. Tarascina](https://anyatarascina.com/))  
   [[GitHub]](https://github.com/anyatarascina/pyRVtest)
   
 ## Contact
