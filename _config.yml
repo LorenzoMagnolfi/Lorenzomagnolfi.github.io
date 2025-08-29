@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Lorenzo Magnolfi"
 title_separator          : "-"
 name                     : &name "Lorenzo Magnolfi"
-description              : &description "Assistant professor of economics"
+description: "Assistant Professor of Economics at University of Wisconsin-Madison."
 url: "https://www.lorenzomagnolfi.com"
 baseurl: ""
 domain: lorenzomagnolfi.com
@@ -155,8 +155,10 @@ social:
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
+
+# Analytics
+google_analytics: "G-68698625" # Replace with your actual ID
+google_site_verification: "" # Add this after setting up Search Console
 
 
 # Reading Files
@@ -312,6 +314,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+# Site search
+include_search: true
+search_full_content: true
+search_provider: lunr
+
 
 # Mimic GitHub Pages with --safe
 whitelist:
