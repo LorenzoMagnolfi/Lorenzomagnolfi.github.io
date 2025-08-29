@@ -16,25 +16,38 @@
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 <script>
-// Make all external links open in new tab
+// Make all external links open in new tab - with debugging and delay
 document.addEventListener('DOMContentLoaded', function() {
-  // Target all links that go to external sites
-  const links = document.querySelectorAll('a[href^="http"], a[href^="https"]');
+  console.log('Script loaded'); // Check if script runs at all
   
-  links.forEach(function(link) {
-    // Don't affect links that are already on the same domain
-    if (link.hostname !== window.location.hostname) {
+  function addTargetBlank() {
+    // Target all links that go to external sites
+    const links = document.querySelectorAll('a[href^="http"], a[href^="https"]');
+    console.log('Found external links:', links.length); // Debug: how many links found
+    
+    links.forEach(function(link) {
+      // Don't affect links that are already on the same domain
+      if (link.hostname !== window.location.hostname) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+        console.log('Modified link:', link.href); // Debug: which links modified
+      }
+    });
+    
+    // Also target specific internal links like PDFs
+    const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
+    console.log('Found PDF links:', pdfLinks.length); // Debug: PDF links
+    pdfLinks.forEach(function(link) {
       link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener noreferrer'); // Security best practice
-    }
-  });
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  }
   
-  // Also target specific internal links like PDFs
-  const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
-  pdfLinks.forEach(function(link) {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
-  });
+  // Run immediately
+  addTargetBlank();
+  
+  // Also run after a short delay to catch any dynamically added content
+  setTimeout(addTargetBlank, 1000);
 });
 </script>
 
