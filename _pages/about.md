@@ -80,3 +80,9 @@ NBER Working Paper [#32863](https://www.nber.org/papers/w32863) | This paper sup
 **Email**: [magnolfi@wisc.edu](mailto:magnolfi@wisc.edu)
 
 **Office**: Room 6426, 1180 Observatory Drive, Madison, WI 53706-1393
+
+---
+
+<div style="text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-light); color: var(--text-secondary); font-size: 0.85rem;">
+© 2025 Lorenzo Magnolfi. All rights reserved.
+</div>
