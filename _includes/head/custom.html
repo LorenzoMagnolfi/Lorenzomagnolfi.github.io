@@ -15,4 +15,117 @@
 <meta name="theme-color" content="#ffffff"/>
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="Lorenzo Magnolfi - Assistant Professor of Economics at University of Wisconsin-Madison. Research in empirical industrial organization and econometrics of games.">
+<meta name="keywords" content="Lorenzo Magnolfi, economics, industrial organization, econometrics, University of Wisconsin-Madison, structural economics, game theory, empirical economics">
+<meta name="author" content="Lorenzo Magnolfi">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+
+<!-- Open Graph Meta Tags for Social Sharing -->
+<meta property="og:title" content="Lorenzo Magnolfi - Economics Research">
+<meta property="og:description" content="Assistant Professor of Economics at UW-Madison specializing in empirical industrial organization and econometrics of games.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://lorenzomagnolfi.com">
+<meta property="og:site_name" content="Lorenzo Magnolfi">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Lorenzo Magnolfi - Economics Research">
+<meta name="twitter:description" content="Assistant Professor of Economics at UW-Madison. Research in empirical industrial organization and econometrics of games.">
+<meta name="twitter:url" content="https://lorenzomagnolfi.com">
+
+<!-- Academic/Scholar Meta Tags -->
+<meta name="citation_author" content="Lorenzo Magnolfi">
+<meta name="citation_author_institution" content="University of Wisconsin-Madison">
+<meta name="citation_author_email" content="magnolfi@wisc.edu">
+
+<!-- Schema.org structured data for Academic Person -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Lorenzo Magnolfi",
+  "jobTitle": "Assistant Professor of Economics", 
+  "worksFor": {
+    "@type": "Organization",
+    "name": "University of Wisconsin-Madison",
+    "url": "https://www.wisc.edu/"
+  },
+  "affiliation": "University of Wisconsin-Madison",
+  "url": "https://lorenzomagnolfi.com",
+  "email": "magnolfi@wisc.edu",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1180 Observatory Drive, Room 6426",
+    "addressLocality": "Madison",
+    "addressRegion": "WI",
+    "postalCode": "53706-1393",
+    "addressCountry": "US"
+  },
+  "knowsAbout": [
+    "Industrial Organization",
+    "Econometrics",
+    "Game Theory",
+    "Structural Economics",
+    "Healthcare Economics"
+  ],
+  "alumniOf": "University of Wisconsin-Madison",
+  "sameAs": [
+    "mailto:magnolfi@wisc.edu"
+  ]
+}
+</script>
+
+<!-- Support for Academicons -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
+<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
+<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
+<link rel="icon" href="/images/favicon.ico"/>
+<meta name="theme-color" content="#059669"/>
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<!-- External Links Script -->
+<script>
+function addTargetBlankToLinks() {
+  const externalLinks = document.querySelectorAll('a[href^="http"], a[href^="https"]');
+  
+  externalLinks.forEach(function(link) {
+    if (link.hostname !== window.location.hostname && !link.hasAttribute('target')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+  
+  const pdfLinks = document.querySelectorAll('a[href$=".pdf"], a[href*=".pdf"]');
+  pdfLinks.forEach(function(link) {
+    if (!link.hasAttribute('target')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+}
+
+document.addEventListener('DOMContentLoaded', addTargetBlankToLinks);
+window.addEventListener('load', addTargetBlankToLinks);
+</script>
+
 <!-- end custom head snippets -->
