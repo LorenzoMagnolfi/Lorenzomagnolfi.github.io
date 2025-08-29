@@ -36,7 +36,7 @@ Here is my [cv](files\cv_2025.pdf).
    *Quantitative Economics, July 2024*  [[arXiv]](https://arxiv.org/abs/2301.06720)
 
 7. [**Triplet Embeddings for Demand Estimation**](https://www.aeaweb.org/articles?id=10.1257/mic.20220248) (with [J. McClure](https://www.joncfmcclure.com/) and [A. Sorensen](https://users.ssc.wisc.edu/~sorensen/))  
-   *American Economic Journal: Microeconomics, February 2025*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4113399)
+   **American Economic Journal: Microeconomics**,* February 2025*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4113399)
 [Extended Abstract](https://dl.acm.org/doi/10.1145/3490486.3538282) in Proceedings of the 23rd ACM Conference on Economics and Computation [*EC'22*]. 
 
 9. [**The Competitive Conduct of Consumer Cooperatives**](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12496) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home) and C. Roncoroni)  
@@ -45,7 +45,8 @@ Here is my [cv](files\cv_2025.pdf).
 ## Working Papers
 
 1. [**Estimation of Games under No Regret: Structural Econometrics for AI**](files/papers/Estimation_of_Games_under_No_Regret_11_29.pdf) (with [N. Lomys](https://niccololomys.com/))  
-   *R&R at Journal of Political Economy* [[SSRN]](https://ssrn.com/abstract=4269273) | NET Institute Working Paper [#24-05](https://ideas.repec.org/p/net/wpaper/2405.html)
+   *R&R at Journal of Political Economy* [[SSRN]](https://ssrn.com/abstract=4269273)<br>
+NET Institute Working Paper [#24-05](https://ideas.repec.org/p/net/wpaper/2405.html)<br>
 [Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742516) in Proceedings of the 26th ACM Conference on Economics and Computation [*EC'25*]  
 
 2. [**Conduct and Scale Economies: Evaluating Tariffs in the US Automobile Market**](/files/papers/ConductAndScaleEconomies_Manuscript+(1)) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
@@ -53,16 +54,24 @@ Here is my [cv](files\cv_2025.pdf).
 3. [**Learning Firm Conduct: Pass-Through as a Foundation for Instrument Relevance**](files/papers/Falsifying_Models_and_Tax_Instruments+(22)(2).pdf) (with [A. Dearing](https://business.cornell.edu/faculty-research/faculty/aed237/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/))
 NBER Working Paper [#32863](https://www.nber.org/papers/w32863) | This paper supersedes [Falsifying Models of Firm Conduct](magnolfi-quint-sullivan-waldfogel.pdf), with [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/).
 
-5. **Multi-homing Policies and Collusion** (with J. Higgins, D. Quint, and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  [[Paper]](files/papers/PlatformCollusion-3.pdf)
+4. [**Multi-homing Policies and Collusion**](files/papers/PlatformCollusion+(3).pdf) (with J. Higgins, [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  [[Paper]]
 
-6. **Testing Information Ordering for Strategic Agents** (with S. Han and H. Kaido)  [[arXiv]](https://arxiv.org/abs/2402.19425)
+5. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  [[arXiv]](https://arxiv.org/abs/2402.19425)
 
-7. **An Equilibrium Model of Rollover Lotteries** (with G. Compiani and L. Smith)  [[Paper]](files/papers/Rollover.pdf)
+6. [**An Equilibrium Model of Rollover Lotteries**](files/papers/Rollover.pdf) (with [G. Compiani](https://giovannicompiani.com/) and [L. Smith](https://www.lonessmith.com/))  
 
-8. **Political Connections and Market Structure** (with C. Roncoroni)  
-   🏆 **Public Utility Research Prize (IIOC 2017)**  [[Paper]](files/papers/PoliticalConnectionsMarketStructure.pdf)
+7. [**Political Connections and Market Structure**](files/papers/PoliticalConnectionsMarketStructure.pdf) (with C. Roncoroni)  
+🏆 **Public Utility Research Prize (IIOC 2017)**
+*Resting, for now*
 
 ## Work in Progress   
+
+1. **Market Counterfactuals with Nonparametric Supply: An ML/AI Approach**, with Harold Chiang, Jack Collison, and Christopher Sullivan - slides. Extended abstract in EC 25: “Enhancing the Merger Simulation Toolkit with ML/AI”
+
+2. **Instrument Choice in Merger Simulations**, with Adam Dearing,  Kai Gao, and Christopher Sullivan.
+
+3. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition**, with Antonio Cozzolino, Cristina Gualdani, Ivan Gufler, and Niccolò Lomys.
+
 
 ## Software
 
