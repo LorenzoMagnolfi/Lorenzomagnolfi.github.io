@@ -1,14 +1,8 @@
 /* Custom CSS for Academic Website - Sophisticated Green Theme */
 /* This targets existing academicpages Jekyll structure */
-
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
 
-:root {
-  color-scheme: light !important;
-}
-
-  
 /* CSS Variables for Easy Color Management */
 :root {
   --primary-color: #059669;
@@ -22,12 +16,14 @@
   --border-light: #e5e7eb;
   --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.1);
   --shadow-medium: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color-scheme: light !important;
 }
 
 /* Base Typography */
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   color: var(--text-primary);
+  background-color: var(--background-white);
 }
 
 /* Headings */
@@ -37,12 +33,10 @@ h1, h2, h3, h4, h5, h6, .page__title {
   color: var(--accent-color);
 }
 
-
 /* Links */
 a {
   color: var(--primary-color);
 }
-
 a:hover {
   color: var(--primary-dark);
 }
@@ -69,7 +63,6 @@ a:hover {
 .sidebar {
     font-family: 'Inter', sans-serif;
 }
-
 .author__name {
   color: var(--text-primary);
   font-family: 'Inter', sans-serif;
@@ -79,36 +72,29 @@ a:hover {
 /* Smaller fonts for about page content */
 .page__content {
   font-size: 0.9rem; /* Reduce base font size */
+  background-color: var(--background-white);
 }
-
 .page__content h1, .page__title {
   font-size: 1.75rem; /* Smaller main title */
 }
-
 .page__content h2 {
   font-size: 1.5rem; /* Smaller section headers */
 }
-
 .page__content h3 {
   font-size: 1.25rem; /* Smaller sub-headers */
 }
-
 .page__content p {
   font-size: 0.9rem; /* Smaller paragraph text */
 }
-
 .page__content li {
   font-size: 0.85rem; /* Smaller list items (publications) */
 }
-
 .page__content strong {
   font-size: inherit; /* Keep same size as parent but bold */
 }
-
 .page__content em {
   font-size: inherit; /* Keep same size for journal names */
 }
-
 .page__content a {
   font-size: inherit; /* Links inherit parent size */
 }
@@ -118,3 +104,159 @@ a:hover {
   display: none !important;
 }
 
+/* DARK MODE OVERRIDE - Force same appearance as light mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #059669 !important;
+    --primary-dark: #047857 !important;
+    --primary-light: #10b981 !important;
+    --accent-color: #047857 !important;
+    --text-primary: #374151 !important;
+    --text-secondary: #6b7280 !important;
+    --background-main: #ffffff !important;
+    --background-white: #ffffff !important;
+    --border-light: #e5e7eb !important;
+    --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+    --shadow-medium: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+    color-scheme: light !important;
+  }
+  
+  /* Force white backgrounds everywhere */
+  html,
+  body,
+  .layout--single,
+  .page,
+  .page__content,
+  .page__inner-wrap,
+  .sidebar,
+  .sidebar .author__content,
+  .masthead,
+  .initial-content,
+  main,
+  article {
+    background-color: #ffffff !important;
+    color: #374151 !important;
+  }
+  
+  /* Force all text colors */
+  body,
+  p, li, span, div,
+  .page__content,
+  .page__content p,
+  .page__content li,
+  .page__content span,
+  .page__content div {
+    color: #374151 !important;
+    background-color: transparent !important;
+  }
+  
+  /* Force heading colors */
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .archive__item-title,
+  .archive__subtitle {
+    color: #047857 !important;
+    background-color: transparent !important;
+  }
+  
+  /* Force link colors */
+  a,
+  .page__content a {
+    color: #059669 !important;
+  }
+  
+  a:hover,
+  .page__content a:hover {
+    color: #047857 !important;
+  }
+  
+  /* Force journal names (em) styling */
+  .page__content em {
+    color: #6b7280 !important;
+    font-weight: 500 !important;
+    background-color: transparent !important;
+  }
+  
+  /* Force sidebar styling */
+  .sidebar {
+    background-color: #ffffff !important;
+    color: #374151 !important;
+  }
+  
+  .author__name,
+  .author__bio,
+  .author__location {
+    color: #374151 !important;
+  }
+  
+  .author__urls a {
+    color: #059669 !important;
+  }
+  
+  .author__urls a:hover {
+    color: #047857 !important;
+  }
+  
+  /* Force navigation colors */
+  .masthead {
+    background-color: #ffffff !important;
+  }
+  
+  .greedy-nav,
+  .greedy-nav__toggle,
+  .site-title {
+    background-color: #ffffff !important;
+    color: #374151 !important;
+  }
+  
+  .greedy-nav a {
+    color: #374151 !important;
+  }
+  
+  .greedy-nav a:hover {
+    color: #059669 !important;
+  }
+  
+  /* Force form elements */
+  input,
+  textarea,
+  select,
+  button {
+    background-color: #ffffff !important;
+    color: #374151 !important;
+    border-color: #e5e7eb !important;
+  }
+  
+  /* Override any code/pre elements */
+  code,
+  pre {
+    background-color: #f3f4f6 !important;
+    color: #374151 !important;
+  }
+  
+  /* Force strong/bold elements */
+  strong,
+  b {
+    color: #374151 !important;
+  }
+  
+  /* Override any border colors */
+  hr,
+  .page__content hr {
+    border-color: #e5e7eb !important;
+  }
+}
+
+/* Additional global override */
+* {
+  color-scheme: light !important;
+}
+
+/* Override any theme switching */
+.dark,
+[data-theme="dark"],
+html[data-theme="dark"],
+body[data-theme="dark"] {
+  background-color: #ffffff !important;
+  color: #374151 !important;
+}
