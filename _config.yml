@@ -154,10 +154,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-
+  provider: "google-analytics-4"
+  
 # Analytics
-google_analytics: "G-68698625" # Replace with your actual ID
+google_analytics: "G-375108868" # Replace with your actual ID
 google_site_verification: "" # Add this after setting up Search Console
 
 
