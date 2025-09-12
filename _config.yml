@@ -153,14 +153,12 @@ social:
 
 
 # Analytics
-analytics:
-  provider: "google-analytics-4"
-  
-# Analytics
-google_analytics: "G-375108868" # Replace with your actual ID
-google_site_verification: "" # Add this after setting up Search Console
-
-
+   # With this:
+   analytics:
+     provider: "google-analytics-4"
+     google:
+       tracking_id: "G-375108868"
+       
 # Reading Files
 include:
   - .htaccess
