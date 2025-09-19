@@ -53,13 +53,15 @@ Here is my [CV](files\cv_2025.pdf).
 3. [**Learning Firm Conduct: Pass-Through as a Foundation for Instrument Relevance**](/files/papers/LearningFirmConduct.pdf) (with [A. Dearing](https://business.cornell.edu/faculty-research/faculty/aed237/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/)) [NBER Working Paper [#32863](https://www.nber.org/papers/w32863)] <br>
 This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/FalsifyingFirmConduct.pdf), with [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/).
 
-4. [**Platform Switching Policies under Collusion: Unintended Consequences for Digital Platforms**](files/papers/PlatformCollusion.pdf) (with [J. Higgins](https://econ.wisc.edu/staff/higgins-john/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
+4. [**Explaining Delaware's Dominance: Firm Heterogeneity and Demand for Legal Flexibility**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507918) (with [O. Eldar]((https://sites.google.com/view/ofereldar))
 
-5. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  [[arXiv]](https://arxiv.org/abs/2402.19425)
+5. [**Platform Switching Policies under Collusion: Unintended Consequences for Digital Platforms**](files/papers/PlatformCollusion.pdf) (with [J. Higgins](https://econ.wisc.edu/staff/higgins-john/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
 
-6. [**An Equilibrium Model of Rollover Lotteries**](files/papers/Rollover.pdf) (with [G. Compiani](https://giovannicompiani.com/) and [L. Smith](https://www.lonessmith.com/))  
+6. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  [[arXiv]](https://arxiv.org/abs/2402.19425)
 
-7. [**Political Connections and Market Structure**](files/papers/PoliticalConnectionsMarketStructure.pdf) (with C. Roncoroni)  
+7. [**An Equilibrium Model of Rollover Lotteries**](files/papers/Rollover.pdf) (with [G. Compiani](https://giovannicompiani.com/) and [L. Smith](https://www.lonessmith.com/))  
+
+8. [**Political Connections and Market Structure**](files/papers/PoliticalConnectionsMarketStructure.pdf) (with C. Roncoroni)  
 🏆 *Public Utility Research Prize (IIOC 2017)*
 *Resting, for now*
 
