@@ -33,7 +33,7 @@ Here is my [CV](files\cv_2025.pdf).
    🏆 *Young Economists' Essay Award (EARIE 2016), Young Economist Prize (JEI 2016)*
 
 6. [**Differentiated-Products Cournot Attributes Higher Markups Than Bertrand-Nash**](https://doi.org/10.1016/j.econlet.2022.110804) (with [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/))  
-   ***Economics Letters***, *October 2022*   [[Preprint]](files/papers/DiffProdCournot.pdf.pdf)
+   ***Economics Letters***, *October 2022*   [[Preprint]](files/papers/DiffProdCournot.pdf)
 
 7. [**A Comparison of Testing and Estimation of Firm Conduct**](https://www.sciencedirect.com/science/article/pii/S0165176522000246) (with [C. Sullivan](https://sites.google.com/view/christopher-sullivan))  
    ***Economics Letters***, *March 2022* [[Preprint]](files/papers/AComparisonOfTestingEstimationFirmConduct.pdf)
