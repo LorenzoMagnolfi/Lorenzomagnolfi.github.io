@@ -71,7 +71,11 @@ This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/Falsifyi
 1. **Market Counterfactuals with Nonparametric Supply: An ML/AI Approach** (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) [[slides]](/files/papers/MarketCFs_slides.pdf)<br>
 📄[Extended abstract](https://dl.acm.org/doi/10.1145/3736252.3742649) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
 
-2. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition** (A. Cozzolino, [C. Gualdani](https://www.cristinagualdani.com/), [I. Gufler](https://sites.google.com/view/ivangufler), and [N. Lomys](https://niccololomys.com/))
+2. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition** (with A. Cozzolino, [C. Gualdani](https://www.cristinagualdani.com/), [I. Gufler](https://sites.google.com/view/ivangufler), and [N. Lomys](https://niccololomys.com/))
+
+3. **Intermediaries and Market Competition in Health Insurance** (joint [N. Aizawa](https://sites.google.com/site/naokiaizawaweb), Honglin Li, and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
+
+
 
 
 ## Software
