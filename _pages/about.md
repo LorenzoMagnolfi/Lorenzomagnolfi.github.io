@@ -73,7 +73,7 @@ This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/Falsifyi
 
 2. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition** (with A. Cozzolino, [C. Gualdani](https://www.cristinagualdani.com/), [I. Gufler](https://sites.google.com/view/ivangufler), and [N. Lomys](https://niccololomys.com/))
 
-3. **Intermediaries and Market Competition in Health Insurance** (joint [N. Aizawa](https://sites.google.com/site/naokiaizawaweb), Honglin Li, and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
+3. **Intermediaries and Market Competition in Health Insurance** (with [N. Aizawa](https://sites.google.com/site/naokiaizawaweb), Honglin Li, [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [P. Tebaldi](https://www.pietrotebaldi.com/))
 
 
 
