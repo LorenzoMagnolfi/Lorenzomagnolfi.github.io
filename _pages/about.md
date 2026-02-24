@@ -49,7 +49,10 @@ Here is my [CV](files\cv_2025.pdf).
 📄[Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742516) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
 
 2. [**Conduct and Scale Economies: Evaluating Tariffs in the US Automobile Market**](/files/papers/ConductAndScaleEconomies.pdf) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
-  🆕 R&R at ***American Economic Review***
+   R&R at ***American Economic Review***
+
+3. [**Market Counterfactuals with Nonparametric Supply: An ML/AI Approach**](/files/papers/MktCounterfactuals_CollisonEtal_2_26.pdf) 🆕 (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) [[slides]](/files/papers/MarketCFs_slides.pdf)<br>
+📄[Extended abstract](https://dl.acm.org/doi/10.1145/3736252.3742649) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
 
 4. [**Learning Firm Conduct: Pass-Through as a Foundation for Instrument Relevance**](/files/papers/LearningFirmConduct.pdf) (with [A. Dearing](https://business.cornell.edu/faculty-research/faculty/aed237/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/)) [NBER Working Paper [#32863](https://www.nber.org/papers/w32863)] <br>
 This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/FalsifyingFirmConduct.pdf), with [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/).
@@ -68,14 +71,11 @@ This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/Falsifyi
 
 ## Work in Progress   
 
-1. **Market Counterfactuals with Nonparametric Supply: An ML/AI Approach** (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) [[slides]](/files/papers/MarketCFs_slides.pdf)<br>
-📄[Extended abstract](https://dl.acm.org/doi/10.1145/3736252.3742649) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
+1. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition** (with A. Cozzolino, [C. Gualdani](https://www.cristinagualdani.com/), [I. Gufler](https://sites.google.com/view/ivangufler), and [N. Lomys](https://niccololomys.com/))
 
-2. **Robust Identification in Repeated Games: An Empirical Approach to Algorithmic Competition** (with A. Cozzolino, [C. Gualdani](https://www.cristinagualdani.com/), [I. Gufler](https://sites.google.com/view/ivangufler), and [N. Lomys](https://niccololomys.com/))
+2. **Intermediaries and Market Competition in Health Insurance** (with [N. Aizawa](https://sites.google.com/site/naokiaizawaweb), Honglin Li, [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [P. Tebaldi](https://www.pietrotebaldi.com/))
 
-3. **Intermediaries and Market Competition in Health Insurance** (with [N. Aizawa](https://sites.google.com/site/naokiaizawaweb), Honglin Li, [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [P. Tebaldi](https://www.pietrotebaldi.com/))
-
-
+3. **Measuring Substitution in Attention Markets: The Case of Mobile Apps** (with [J. McClure](https://www.joncfmcclure.com/), [A. Sorensen](https://users.ssc.wisc.edu/~sorensen/), and Henry Ziao Zhao)  
 
 
 ## Software
