@@ -51,7 +51,7 @@ Here is my [CV](files\cv_2025.pdf).
 2. [**Conduct and Scale Economies: Evaluating Tariffs in the US Automobile Market**](/files/papers/ConductAndScaleEconomies.pdf) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
    R&R at ***American Economic Review***
 
-3. [**Market Counterfactuals with Nonparametric Supply: An ML/AI Approach**](/files/papers/MktCounterfactuals_CollisonEtal_2_26.pdf) 🆕 (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) [[slides]](/files/papers/MarketCFs_slides.pdf)<br>
+3. [**Market Counterfactuals with Nonparametric Supply: An ML/AI Approach**](/files/papers/MktCounterfactuals_CollisonEtal_2_26.pdf) 🆕 (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
 📄[Extended abstract](https://dl.acm.org/doi/10.1145/3736252.3742649) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
 
 4. [**Learning Firm Conduct: Pass-Through as a Foundation for Instrument Relevance**](/files/papers/LearningFirmConduct.pdf) (with [A. Dearing](https://business.cornell.edu/faculty-research/faculty/aed237/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/)) [NBER Working Paper [#32863](https://www.nber.org/papers/w32863)] <br>
