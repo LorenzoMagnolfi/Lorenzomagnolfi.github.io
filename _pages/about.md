@@ -51,18 +51,18 @@ Here is my [CV](files/cv_magnolfi.pdf) (updated: June, 2026).
 2. [**Conduct and Scale Economies: Evaluating Tariffs in the US Automobile Market**](/files/papers/ConductAndScale_DMQSS_Mar2026.pdf) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
    R&R at ***American Economic Review***
 
-3. [**Market Counterfactuals with Nonparametric Supply: An ML/AI Approach**](/files/papers/PredictingCounterfactualsMLAI_CCMS_52026.pdf) 🆕 (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
+3. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  
+   R&R at ***Journal of Econometrics*** [[arXiv]](https://arxiv.org/abs/2402.19425)
+
+4. [**Market Counterfactuals with Nonparametric Supply: An ML/AI Approach**](/files/papers/PredictingCounterfactualsMLAI_CCMS_52026.pdf) 🆕 (with [H. Chiang](https://sites.google.com/view/haroldchiang/home), [J. Collison](https://jackcollison.github.io/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
 📄[Extended abstract](https://dl.acm.org/doi/10.1145/3736252.3742649) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
 
-4. [**Learning Firm Conduct: Pass-Through as a Foundation for Instrument Relevance**](/files/papers/LearningFirmConduct.pdf) (with [A. Dearing](https://business.cornell.edu/faculty-research/faculty/aed237/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/)) [NBER Working Paper [#32863](https://www.nber.org/papers/w32863)] <br>
+5. [**Learning Firm Conduct: Pass-Through as a Foundation for Instrument Relevance**](/files/papers/LearningFirmConduct.pdf) (with [A. Dearing](https://business.cornell.edu/faculty-research/faculty/aed237/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/)) [NBER Working Paper [#32863](https://www.nber.org/papers/w32863)] <br>
 This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/FalsifyingFirmConduct.pdf), with [D. Quint](https://users.ssc.wisc.edu/~dquint/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [S. Waldfogel](https://www.swaldfogel.com/).
 
-5. [**Explaining Delaware's Dominance: Firm Heterogeneity and Demand for Legal Flexibility**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507918) (with [O. Eldar]((https://sites.google.com/view/ofereldar)))
+6. [**Explaining Delaware's Dominance: Firm Heterogeneity and Demand for Legal Flexibility**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507918) (with [O. Eldar]((https://sites.google.com/view/ofereldar)))
 
-6. [**Platform Switching Policies under Collusion: Unintended Consequences for Digital Platforms**](files/papers/PlatformCollusion.pdf) (with [J. Higgins](https://econ.wisc.edu/staff/higgins-john/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
-
-7. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  
-   R&R at ***Journal of Econometrics*** [[arXiv]](https://arxiv.org/abs/2402.19425)
+7. [**Platform Switching Policies under Collusion: Unintended Consequences for Digital Platforms**](files/papers/PlatformCollusion.pdf) (with [J. Higgins](https://econ.wisc.edu/staff/higgins-john/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
 
 8. [**An Equilibrium Model of Rollover Lotteries**](files/papers/Rollover.pdf) (with [G. Compiani](https://giovannicompiani.com/) and [L. Smith](https://www.lonessmith.com/))  
 
