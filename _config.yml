@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Lorenzo Magnolfi"
 title_separator          : "-"
 name                     : &name "Lorenzo Magnolfi"
-description: "Assistant Professor of Economics at University of Wisconsin-Madison."
+description: "Associate Professor of Economics at the Ohio State University."
 url: "https://www.lorenzomagnolfi.com"
 baseurl: ""
 domain: lorenzomagnolfi.com

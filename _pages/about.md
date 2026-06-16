@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Economics at the University of Wisconsin-Madison.
+I am an Associate Professor of Economics at the Ohio State University (from August 2026), previously an Assistant Professor of Economics at the University of Wisconsin-Madison.
 
-I do research in *empirical industrial organization* and *econometrics of games*: see my [research statement](files\Research_Statement+(5).pdf) (updated: September, 2025) for a description of my research agenda. 
+I do research in *empirical industrial organization* and *econometrics of games*: see my [research statement](files/research_statement.pdf) (updated: September, 2025) for a description of my research agenda. 
 
-Here is my [CV](files\cv_2025.pdf).
+Here is my [CV](files/cv_magnolfi.pdf) (updated: June, 2026).
 
 ## Published Papers
 
@@ -85,10 +85,10 @@ This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/Falsifyi
 ## Contact
 **Email**: [magnolfi@wisc.edu](mailto:magnolfi@wisc.edu)
 
-**Office**: Room 6426, 1180 Observatory Drive, Madison, WI 53706-1393
+**Office** (from August 2026): Department of Economics, The Ohio State University, Columbus, OH
 
 ---
 
 <div style="text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-light); color: var(--text-secondary); font-size: 0.85rem;">
-© 2025 Lorenzo Magnolfi. All rights reserved.
+© 2026 Lorenzo Magnolfi. All rights reserved.
 </div>
