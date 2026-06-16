@@ -61,7 +61,8 @@ This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/Falsifyi
 
 6. [**Platform Switching Policies under Collusion: Unintended Consequences for Digital Platforms**](files/papers/PlatformCollusion.pdf) (with [J. Higgins](https://econ.wisc.edu/staff/higgins-john/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan)) 
 
-7. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  [[arXiv]](https://arxiv.org/abs/2402.19425)
+7. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  
+   R&R at ***Journal of Econometrics*** [[arXiv]](https://arxiv.org/abs/2402.19425)
 
 8. [**An Equilibrium Model of Rollover Lotteries**](files/papers/Rollover.pdf) (with [G. Compiani](https://giovannicompiani.com/) and [L. Smith](https://www.lonessmith.com/))  
 
@@ -83,7 +84,7 @@ This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/Falsifyi
 - **pyRVtest: Python Package for Testing Firm Conduct** (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [C. Sullivan](https://sites.google.com/view/christopher-sullivan), and [A. Tarascina](https://anyatarascina.com/)) [[GitHub]](https://github.com/anyatarascina/pyRVtest)
   
 ## Contact
-**Email**: [magnolfi@wisc.edu](mailto:magnolfi@wisc.edu)
+**Email**: [email@lorenzomagnolfi.com](mailto:email@lorenzomagnolfi.com)
 
 **Office** (from August 2026): Department of Economics, The Ohio State University, Columbus, OH
 
