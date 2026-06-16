@@ -86,7 +86,7 @@ This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/Falsifyi
 ## Contact
 **Email**: [email@lorenzomagnolfi.com](mailto:email@lorenzomagnolfi.com)
 
-**Office** (from August 2026): Department of Economics, The Ohio State University, Columbus, OH
+**Office** (from August 2026): 232 Bricker Hall, The Ohio State University, Columbus, OH
 
 ---
 
