@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Economics at the Ohio State University (from August 2026), previously an Assistant Professor of Economics at the University of Wisconsin-Madison.
+I am an Associate Professor of Economics at the Ohio State University, previously an Assistant Professor of Economics at the University of Wisconsin-Madison.
 
 I do research in *empirical industrial organization* and *econometrics of games*: see my [research statement](files/research_statement.pdf) (updated: September, 2025) for a description of my research agenda. 
 
@@ -86,7 +86,7 @@ This paper supersedes [Falsifying Models of Firm Conduct](/files/papers/Falsifyi
 ## Contact
 **Email**: [email@lorenzomagnolfi.com](mailto:email@lorenzomagnolfi.com)
 
-**Office** (from August 2026): 232 Bricker Hall, The Ohio State University, Columbus, OH
+**Office**: 232 Bricker Hall, The Ohio State University, Columbus, OH
 
 ---
 
