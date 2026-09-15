@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV as a [PDF here]({{ base_path }}/files/cv_magnolfi.pdf) (updated June 2026).
+You can download my full CV as a [PDF here]({{ base_path }}/files/cv_magnolfi.pdf) (updated September 2026).
 
 <embed src="{{ base_path }}/files/cv_magnolfi.pdf" width="100%" height="900px" type="application/pdf" />

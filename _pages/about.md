@@ -11,7 +11,7 @@ I am an Associate Professor of Economics at the Ohio State University, previousl
 
 I do research in *empirical industrial organization* and *econometrics of games*: see my [research statement](files/research_statement.pdf) (updated: September, 2025) for a description of my research agenda. 
 
-Here is my [CV](files/cv_magnolfi.pdf) (updated: June, 2026).
+Here is my [CV](files/cv_magnolfi.pdf) (updated: September, 2026).
 
 ## Published Papers
 
@@ -49,7 +49,7 @@ Here is my [CV](files/cv_magnolfi.pdf) (updated: June, 2026).
 📄[Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742516) in *Proceedings of the 26th ACM Conference on Economics and Computation* [**EC'25**]  
 
 2. [**Conduct and Scale Economies: Evaluating Tariffs in the US Automobile Market**](/files/papers/ConductAndScale_DMQSS_Mar2026.pdf) (with [M. Duarte](https://sites.google.com/view/marco-duarte/home), [M. Sølvsten](https://sites.google.com/site/mikkelsoelvsten/), [D. Quint](https://users.ssc.wisc.edu/~dquint/), and [C. Sullivan](https://sites.google.com/view/christopher-sullivan))
-   R&R at ***American Economic Review***
+   Conditionally accepted at ***American Economic Review***
 
 3. **Testing Information Ordering for Strategic Agents** (with [S. Han](https://sukjinhan.com/info-1) and [H. Kaido](https://people.bu.edu/hkaido/))  
    R&R at ***Journal of Econometrics*** [[arXiv]](https://arxiv.org/abs/2402.19425)
